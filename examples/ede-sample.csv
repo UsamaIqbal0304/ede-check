@@ -1,0 +1,13 @@
+PROJECT_NAME;a name for this reference file
+AUTHOR_OF_LAST_CHANGE;
+VERSION_OF_REFERENCEFILE;1
+TIMESTAMP_OF_LAST_CHANGE;
+LIMITED_RESOURCES;
+VERSION_OF_LAYOUT;2
+# the next line is a comment too - the import is positional, column 6 onward is optional, and a blank one is silently defaulted
+# keyname;device obj.-instance;object-name;object-type;object-instance;description;present-value-default;min-present-value;max-present-value;settable;supports COV;hi-limit;low-limit;state-text-reference;unit-code;vendor-specific-address;notification-class
+AHU1_SAT;1001;AHU1_SupplyAirTemp;0;1;supply air temperature;21.5;-40;120;n;y;;;;64;;
+AHU1_SAT;1001;AHU1_MixedAirTemp;0;2;supply air temperature;21.5;-40;120;n;y;;;;;;
+AHU1_SAT;1001;AHU1_StaticPress;0;3;supply air temperature;21.5;-40;120;n;y;;;;999;;
+AHU1_MODE;1001;AHU1_FanStatus;19;4;occupancy mode;Occupied;;;y;n;;;;95;;
+AHU1_SAT;1001;AHU1_TrendFile;10;5;supply air temperature;21.5;-40;120;n;y;;;;64;;
