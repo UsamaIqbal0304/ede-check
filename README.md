@@ -89,6 +89,10 @@ Read from Niagara-4.15.5.22: 17 columns, first 5 mandatory, 269 unit codes, 13 o
 
 Exit status is 1 when any line would be rejected, 0 when the file is clean.
 
+## The same finding, written up
+
+The output above, the 17 columns, which 5 are mandatory, and what each blank optional column becomes once Niagara has imported it, is also a page: <https://plantroomlabs.com/tools/ede-check/>. It carries this run, the download with its size and SHA-256, and the note explaining the reasoning.
+
 ## Licence
 
 MIT. Written by Usama Iqbal at [Plantroom Labs](https://plantroomlabs.com).
