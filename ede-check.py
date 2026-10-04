@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Usama Iqbal (Plantroom Labs)
 """An EDE file checked against the parser Niagara actually ships.
 
     ./ede-check.py --template points.csv [--states states.csv]
